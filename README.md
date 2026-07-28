@@ -1,5 +1,7 @@
 🩺 Diabetes Prediction using Machine Learning
 
+Live Model: https://diabetes-prediction-using-ml-h.streamlit.app/
+
 A Machine Learning web application that predicts whether a patient is likely to have diabetes based on medical parameters. The application is built using **Python**, **Scikit-learn**, and **Streamlit**.
 
 📌 Project Overview
